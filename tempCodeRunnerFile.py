@@ -1,0 +1,1 @@
+The highest mark is {highest}% and the lowest mark is {lowest}%")
